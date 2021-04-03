@@ -63,6 +63,7 @@
 
 # 阿里巴巴 CDN #8
 (@%!)alibabadns.com
+(@%!)dns.alidns.com
 
 # 必应
 (@%!)cn.bing.com
@@ -114,10 +115,10 @@
 (@%!)qpic.cn
 (@%!)gtimg.cn
 
-# BiliBili
+# 哔哩哔哩
 (@%!)bilivideo.com
 
-# Public CDN
+# 网宿CDN
 (@%!)mwcloudcdn.com
 
 ## 自定义规则 - 结束
