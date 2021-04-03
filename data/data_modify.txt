@@ -52,14 +52,6 @@
 
 ## 自定义规则 - 开始
 
-# AcgnX
-(@&!)share.acgnx.net
-(@&!)share.acgnx.se
-(@&!)www.acgnx.se
-
-# AniX.Moe
-(@&!)www.anix.moe
-
 # 阿里 DNS
 (@%!)dns.alidns.com
 
@@ -75,9 +67,6 @@
 (@%!)dns.pub
 (@%!)doh.pub
 (@%!)dot.pub
-
-# Denpasoft
-(@&!)denpasoft.com
 
 # 抖音 #10
 (@%!)douyincdn.com
@@ -111,14 +100,18 @@
 (@%!)securemetrics.apple.com.cn
 (@%!)www.apple.com.cn
 
-# 钱美流量 #8
-(@%!)ssnm.xyz
+# 新浪微博
+(@%!)sinaimg.cn
+(@%!)weibo.cn
 
-# 上海闪耀信息科技有限公司 / 闪耀科技 #8
-(@%!)global-ict.cn
-(@%!)global-idc.net
+# 腾讯
+(@%!)qpic.cn
+(@%!)gtimg.cn
 
-# UC 浏览器 #8
-(@%!)uc.cn
+# BiliBili
+(@%!)bilivideo.com
+
+# Public CDN
+(@%!)mwcloudcdn.com
 
 ## 自定义规则 - 结束

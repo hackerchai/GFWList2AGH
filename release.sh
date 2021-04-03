@@ -122,7 +122,7 @@ function GenerateRules() {
                 "https://doh.pub:443/dns-query"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
+                "tls://dns.google"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
