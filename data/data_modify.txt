@@ -63,7 +63,6 @@
 
 # 阿里巴巴 CDN #8
 (@%!)alibabadns.com
-(@%!)dns.alidns.com
 
 # 必应
 (@%!)cn.bing.com
