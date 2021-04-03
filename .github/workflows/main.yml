@@ -4,7 +4,7 @@ name: Build & Release hezhijie0327/GFWList2AGH
 
 on:
     push:
-        branches: [main]
+        branches: [main,source]
     schedule:
         - cron: "0 0 * * *"
 
