@@ -6047,6 +6047,7 @@
 5999.tv
 599ku.com
 59b2b.com
+59bo.net
 59di.com
 59dun.com
 59edu.com
@@ -11356,7 +11357,6 @@ anitoys.com
 aniu.so
 aniu.tv
 anix.xyz
-anji-auto.com
 anji-ceva.com
 anji-logistics.com
 anji-tonghui.com
@@ -12126,6 +12126,7 @@ appcup.com
 appdaka.com
 appdao.com
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -16521,7 +16522,6 @@ c.xadingli.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
 c.y.qq.com
-c.yanyanbiji.com
 c.yes.youku.com
 c.youdao.com
 c.yunnanpulasi.com
@@ -20369,8 +20369,6 @@ cm-10-58.getui.com
 cm-10-59.getui.com
 cm-10-60.getui.com
 cm-10-62.getui.com
-cm-10-68.getui.com
-cm-10-70.getui.com
 cm-10-73.getui.com
 cm-10-80.getui.com
 cm-10-81.getui.com
@@ -20622,7 +20620,6 @@ cn.msi.com
 cn.mvconf.50union.com
 cn.net
 cn.pandora.net
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.vc
 cn.voice.gcloudcs.com
@@ -30095,7 +30092,6 @@ fringe-zero.com
 friok.com
 fristlvy.com
 frjie.com
-frjxdv.cn
 frkq.com
 frlh168.com
 fro14.com
@@ -32115,7 +32111,6 @@ gongbaike.com
 gongboshi.com
 gongchang.com
 gongchengbing.com
-gongchengshi.org
 gongchou.com
 gongfubb.com
 gongfuworld.com
@@ -36073,6 +36068,7 @@ hostmsu.ru
 hostspaces.net
 hostxen.com
 hostyun.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotcbit.org
@@ -39713,7 +39709,6 @@ ios.rqd.qq.com
 ios1234.com
 ios8.app
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
@@ -42206,7 +42201,6 @@ jkc8.com
 jkcaijing.com
 jkcorkpads.com
 jkcsjd.com
-jkdpw.com
 jkdsz.com
 jke1.jianke.com
 jkeabc.com
