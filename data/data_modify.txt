@@ -121,4 +121,10 @@
 # 网宿CDN
 (@%!)mwcloudcdn.com
 
+# 支付宝
+(@%!)mobilegw.alipay.com
+
+# 治杰 Online
+(@&!)zhijie.online
+
 ## 自定义规则 - 结束
