@@ -9694,7 +9694,6 @@
 957ds.cc
 9588.com
 958jbs.com
-958so.cn
 959249.com
 95949c.com
 9596956.com
@@ -14020,6 +14019,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -14051,6 +14051,7 @@ app.hnzycfc.com
 app.houyi.baofeng.net
 app.ingame.qq.com
 app.jiuzhilan.com
+app.juwang.com
 app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
@@ -14573,7 +14574,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -19035,7 +19035,6 @@ c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
 c.lianwangtech.com
-c.lovame.com.cn
 c.lxanimation.cn
 c.m.163.com
 c.mipcdn.com
@@ -25073,11 +25072,8 @@ count32.51yes.com
 count34.51yes.com
 count35.51yes.com
 count38.51yes.com
-count39.51yes.com
 count4.51yes.com
 count41.51yes.com
-count42.51yes.com
-count43.51yes.com
 count44.51yes.com
 count45.51yes.com
 count46.51yes.com
@@ -26973,7 +26969,6 @@ dameixj.com
 dameiyunduan.com
 dameng.com
 damengxiang.me
-damifan.cn
 damingweb.com
 damndigital.com
 damotea.com
@@ -29936,7 +29931,6 @@ download.effie.co
 download.elemecdn.com
 download.fuyuncc.com
 download.game.yy.com
-download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
 download.jr.jd.com
@@ -35552,6 +35546,7 @@ fxcsxb.com
 fxdiv.com
 fxdm.net
 fxdp.com
+fxfvttu.cn
 fxgate.baidu.com
 fxian.org
 fxiaoke.com
@@ -37086,7 +37081,6 @@ glcct.com
 gldtztc.com
 gleasy.com
 glface.com
-glg.uu.163.com
 glgczk.com
 glgoo.com
 glgoo.net
@@ -42184,7 +42178,6 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -54627,7 +54620,6 @@ loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
 logisticsy.com
-logman.dmall.com
 logmonitor.leiting.com
 logo-emblem.com
 logo123.net
@@ -55678,7 +55670,6 @@ m.3dmgame.com
 m.51dongshi.com
 m.51job.com
 m.58.com
-m.5s7uo.cn
 m.5vst8h.cn
 m.5you.com
 m.6z1gf.cn
@@ -55867,7 +55858,6 @@ m.newsmth.net
 m.niu07.com
 m.nuoqingck.cn
 m.ocenp.com
-m.panda.voiceads.cn
 m.pinduoduo.net
 m.pinkmore.cn
 m.pizzahut.com.cn
@@ -67489,7 +67479,6 @@ qinghua5.com
 qinghuaonline.com
 qinghuaxuezi.com
 qinghuo.net
-qingjianxiu.com
 qingju.com
 qingkai.com
 qingkan.tw
@@ -76217,7 +76206,6 @@ static.qiekj.com.w.kunlungr.com
 static.qimai.cn
 static.qiyi.com
 static.qiyi.com.w.alikunlun.com
-static.qysyyg.com
 static.res.qq.com
 static.runoob.com
 static.sensorsdata.cn
@@ -91371,7 +91359,6 @@ xn--0xv28g5vz8fs.com
 xn--2krw29cdqai43k.com
 xn--2qu92fhtx4ff.site
 xn--2qux23c9ziyrq.plus
-xn--2qux23c9ziyrq.video
 xn--2qux23confgml.club
 xn--2qux23confgml.online
 xn--3bs795g.link
