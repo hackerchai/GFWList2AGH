@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -532,7 +533,6 @@
 114zhaofang.com
 11544.global.siteimproveanalytics.io
 1155ww.com
-115ap.com
 115sihu.com
 116.etowns.org
 11616.com
@@ -2430,7 +2430,6 @@
 46.flnet.org
 4608.hk
 4612.yzc596.com
-4616-1.global-cdn.online
 4616-1.global1cdn.com
 461683.com
 466453.com
@@ -6011,7 +6010,6 @@ ad.khan.co.kr
 ad.kisscartoon.ac
 ad.kisscartoon.is
 ad.kisscartoon.su
-ad.kmib.co.kr
 ad.kokkk2.com
 ad.koreadaily.com
 ad.krutilka.ru
@@ -6350,7 +6348,6 @@ adbyby.com
 adc-js.nine.com.au
 adc.9news.com.au
 adc.nine.com.au
-adc.quantrimang.com
 adc.streamspread.com
 adc.tripple.at
 adc3-launch.adcolony.com
@@ -8526,7 +8523,6 @@ agro.net.ru
 agro10x.com.br
 ags.privatelink.msidentity.com
 agsolcanada.com
-agtr.ahksqc.com.cn
 agusiq-torrents.pl
 agxsw.com
 agzy1.com
@@ -10771,7 +10767,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -10979,6 +10974,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -14306,7 +14302,6 @@ bd01.daqiso.com
 bd1-china.6789.com
 bd1.idgdmg.com.cn
 bd4travel.com
-bd625.com
 bd835.com
 bd935.com
 bdc.ca
@@ -15133,7 +15128,6 @@ bf2468.com
 bf4chinarising.dlcodes.com
 bf4codes.dlcodes.com
 bf4secondassault.dlcodes.com
-bf633.com
 bf740.com
 bfast.com
 bfaxv.xyz
@@ -18362,7 +18356,6 @@ c.betrad.com
 c.bigmir.net
 c.bing.com
 c.bitbucket.ns.emailvision.net.daraz.com
-c.boxc.pro
 c.br.msn.com
 c.c4.workers.dev
 c.ca.msn.com
@@ -19840,6 +19833,7 @@ cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
 cdn-2.gamecoast.org
+cdn-7n-pt.zbwowo.com
 cdn-adn-https-share.rayjump.com
 cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
@@ -20979,6 +20973,7 @@ chinaaid.net
 chinaaid.org
 chinaaid.us
 chinaart.tw
+chinablog.xyz
 chinachange.org
 chinachannel.hk
 chinacheatsheets.com
@@ -22710,7 +22705,6 @@ collector.kstptv5.com
 collector.leaddyno.com
 collector.mazeberry.com
 collector.mediator.media
-collector.newsx.cc
 collector.ozeex.com
 collector.pi.spectrum.net
 collector.placelocal.com
@@ -24278,7 +24272,6 @@ crisisresponse.google
 crisp.chat
 crispadvertising.com
 cristyli.com
-crit-staging.com
 criteo.com
 criteo.net
 criterionedge.com
@@ -27517,7 +27510,6 @@ dickblick.com
 dickssportinggoods.com
 dict.yulghun.com
 dict1.pwn.net.pl
-dictate.ms
 dictatorship.com
 dictatorwatch.org
 dictionary.cambridge.org
@@ -28685,7 +28677,6 @@ domo.com
 domofinance.fr
 domondo.pl
 domonet.jp
-domp4.com
 domusblog.org
 domyown.com
 domypaper.essaytutors.net
@@ -28697,7 +28688,6 @@ donateforislam.com
 donbaird.com
 donedeal.ie
 donejty.pl
-dongbei731.com
 dongbei888.com
 dongdamen.com.tw
 dongphim.net
@@ -29608,7 +29598,6 @@ dy2xcjk8s1dbz.cloudfront.net
 dy606.com
 dy9or3jkex4hkrfm6nhsww2821g8eu.ext-twitch.tv
 dyatkovo.ru
-dyb.jdcbuy.com
 dybee.co
 dyboss.com
 dybxezbel1g44.cloudfront.net
@@ -29835,7 +29824,6 @@ e.nbkbgd.cn
 e.nchet.com
 e.nexac.com
 e.oaktreemobility.co.uk
-e.q671e.cn
 e.qxfly.com
 e.rentclv.com
 e.replacementdevicelawsuit.com
@@ -33315,7 +33303,6 @@ f35.flnet.org
 f368.com
 f37555.com
 f37c88082f894b318447253879366eaf.fp.measure.office.com
-f3b.work
 f4.flnet.org
 f4.info.tm
 f4.shared.global.fastly.net
@@ -37325,7 +37312,6 @@ gcwubi.happypancake.fi
 gcwubi.happypancake.se
 gcx3.cn
 gcxiyx.inspireuplift.com
-gd2000.net
 gd520520.com
 gd9vip.net
 gdaily.org
@@ -38242,7 +38228,6 @@ global.in.ai.privatelink.monitor.azure.com
 global.jcb
 global.ketchcdn.com
 global.localizecdn.com
-global.mgr.consensu.org
 global.msads.net
 global.notify.windows.com
 global.ntt
@@ -41713,7 +41698,6 @@ gu-global.com
 gu-pix.appspot.com
 gu.5.p2l.info
 gu.com
-gu.dyntrk.com
 gu.twimg.com
 gu7socdn.txxx.com
 guafzw.greenhouse.ne.jp
@@ -45771,6 +45755,7 @@ img.bwin.com
 img.bwin.it
 img.c3tag.com
 img.convertflow.co
+img.dlads.cn
 img.dlsite.jp
 img.flashtalking.com
 img.gamebookers.com
@@ -50037,7 +50022,6 @@ js883.dragoncent.com
 js883.yongkang6.com
 js888002.com
 js888008.com
-js888100.com
 js888600.com
 js986.cnbole.net
 js9900vip.com
@@ -51448,6 +51432,7 @@ kr.ghproxy.com
 kr.neoz.club
 kr.ua
 kr1.hkts.win
+kr2.000714.xyz
 krak.dk
 kraken.com
 kraken.rambler.ru
@@ -52188,6 +52173,7 @@ lax.nfreya.net.daraz.com
 lax.ns2.viviotech.net.daraz.com
 lax.winter.net.daraz.com
 lax1-ib.adnxs.com
+lax71.com
 laxallstars.com
 laxns2.cl.bellsouth.net.daraz.com
 laybuy.com
@@ -53706,7 +53692,6 @@ lncn.org
 lndjj.com
 lne.st
 lnews.riafan.ru
-lnfund.org.cn
 lngtd.com
 lningcity.com.cn
 lnkd.demdex.net
@@ -56969,7 +56954,6 @@ mb.vesti.ru
 mb.videolan.org
 mb.zam.com
 mb3admin.com
-mb99.vip
 mbafcpa.actonservice.com
 mbainfo.ust.hk
 mbaprepschool.cn
@@ -59787,7 +59771,6 @@ mobile-lib-oa-1.net.daraz.com
 mobile-www.net.daraz.com
 mobile.356884.com
 mobile.amateursexy.net
-mobile.banzai.it
 mobile.beike188.com
 mobile.d.ns.emailvision.net.daraz.com
 mobile.de
@@ -62545,6 +62528,7 @@ newyorkupstate.com
 newzfind.com
 newzgames.com
 newzit.com
+nex.163.com
 nex4.net
 nexac.com
 nexage.com
@@ -64387,7 +64371,6 @@ oascentral.itbusiness.ca
 oascentral.law.com
 oascentral.lycos.com
 oascentral.newsmax.com
-oascentral.rcrnews.com
 oascentral.redherring.com
 oascentral.theonion.com
 oascentral.theonionavclub.com
@@ -68293,7 +68276,6 @@ pi88.com
 pi88.net
 piab.com
 piaggio.com
-pianhd.com
 pianku.la
 pianku.me
 pianopiano.pt
@@ -68738,7 +68720,6 @@ pjbar8.xyz
 pjcrwljs.com
 pjdc0055.com
 pjdc5566.com
-pjdc5577.com
 pjdc6622.com
 pjdc6688.com
 pjdc8833.com
@@ -71156,6 +71137,7 @@ pwofygwm33jwn7dfs3mxzx2zki9oe1620829568.nuid.imrworldwide.com
 px-cloud.net
 px-intl.ucweb.com
 px.adhigh.net
+px.ads.linkedin.cn
 px.ads.linkedin.com
 px.britepool.com
 px.cdn.creative.medialytics.com
@@ -71789,7 +71771,6 @@ qvmucs.abluestore.com
 qvnpxc.technopark.ru
 qvod.com
 qvqtga.barenecessities.com
-qvwa7.xxllz.top
 qvzrde.eusemfronteiras.com.br
 qvzrde.horoscopovirtual.com.br
 qvzrde.mensagenscomamor.com
@@ -71833,7 +71814,6 @@ qzcxtm.mango.com
 qzwktr.world-fusigi.net
 qzxcvb.m.zwdu.com
 qzxfnv.beams.co.jp
-qzxmtyy.com
 qzzxjc.com
 r-ad.ne.jp
 r-ch-1.azure.net.daraz.com
@@ -73531,7 +73511,6 @@ res.elle.fr
 res.femina.fr
 res.francedimanche.fr
 res.iqucai.com
-res.ohmanhua.com
 res.programme-television.org
 res.public.fr
 res.rbl.ms
@@ -75136,7 +75115,6 @@ s8bbs.com
 s8t.teads.tv
 s8tu.com
 s900045.com
-s99bet.com
 s99bet.net
 sa-as.com
 sa-gaming.net
@@ -77804,7 +77782,6 @@ shanglin010.com
 shangmiss.wap.xsbiquge.com
 shangri-la.com
 shangyouw.cn
-shanshuidan.com
 shaoboqiulinwedding.weebly.com
 shaoka5.com
 shaoshuren.org
@@ -78193,11 +78170,9 @@ shqmetrics.sony.com
 shreveporttimes.com
 shrfbdg004.com
 shrikezhang.com
-shsjdkt.com
 shtptt.cupshe.com
 shuaiku.com
 shubt.net
-shuc-pc-hamlet.ksord.com
 shueisha.co.jp
 shufoo.net
 shuidiov.ocsp-certum.com
@@ -86846,7 +86821,6 @@ tg-jsyl.internet7.cc
 tg-jsyl.internet7.vip
 tg.dev
 tg.mybb.ru
-tg.qilashou.com
 tg.socdm.com
 tg.trickip.org
 tg333.net
@@ -87497,6 +87471,7 @@ thron.com
 throughnightsfire.com
 throwingsevens.co.uk
 throwww.com
+thrtle.com
 thtmod1.com
 thugreport.com
 thula.co.uk
@@ -91377,7 +91352,6 @@ u.zuoyesou.com
 u0.s.minisplat.cn
 u034024.nr1234.com
 u1.s.minisplat.cn
-u1.shuaiku.com
 u15.info
 u15762298.ct.sendgrid.net
 u163fordownload.zzux.com
